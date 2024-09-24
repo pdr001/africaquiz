@@ -19,7 +19,7 @@ const countryImage = document.getElementById('country-image');
 const feedback = document.getElementById('feedback');
 const triesDisplay = document.getElementById('tries-left');
 
-// Initialize columns for 1-14, 15-28, 29-42, 43-56
+// columns = 1-14, 15-28, 29-42, 43-56
 const columns = [
     document.getElementById('column-1'),
     document.getElementById('column-2'),
