@@ -1,1 +1,1 @@
-# africaquiz
+# Africa Map Quiz
